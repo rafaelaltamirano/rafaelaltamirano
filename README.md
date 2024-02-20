@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">A passionate Android developer from Argentina, currently based in Berlin, Germany. With more than 3 years of experience I build native applications based on high-quality architecture. Always seeking to be at the forefront of technology. Work with Jetpack Compose and clean Arch as a base </h3>
+<h3 align="center">A passionate Android developer and UX Designer from Argentina, currently based in Berlin, Germany. With more than 3 years of experience I build native applications based on high-quality architecture. Always seeking to be at the forefront of technology. Work with Jetpack Compose and clean Arch as a base </h3>
 
 ### I have worked on projects such as:
 - Coinpro for Elektra Mexico
