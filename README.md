@@ -11,7 +11,7 @@
 
 ### More about me:
 
-- 👨‍💻 All of my projects are available at [ My Web Site](https://rafaelaltamiranoz3zf3xst.contra.com/templates?isInternalTraffic=true&utm_campaign=independent_portfolio_redirect&utm_medium=contra&utm_source=portfolio)
+- 👨‍💻 All of my projects are available at [ My Web Site](https://rafaelaltamiranoz3zf3xst.contra.com/?openCustomizationSidebarScreen=main&styleOverride=sydney%3Adawn)
 
 - 📄 Know about my experiences [My CV Updated](https://drive.google.com/file/d/1Hr_a_Yo5tTEwdcL1YPhk8WUACu9pnUZ2/view?usp=sharing)
 
